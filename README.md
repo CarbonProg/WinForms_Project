@@ -30,6 +30,11 @@
 
   ![image](https://github.com/CarbonProg/WinForms_Project/assets/133951431/ec36e98d-44d4-417a-bc9b-06f2bb25af66)
 
+## Результат
+
+![image](https://github.com/CarbonProg/WinForms_Project/assets/133951431/4d5bc402-addf-479a-861c-88f0b579b85d)
+
+
 ## Контакты
 - VK : [Максим Назарь](https://vk.com/ravecarbon)
 - [Telegram](https://t.me/Carbon228)
